@@ -18,8 +18,8 @@
     + TF-IDF
       ![image](https://github.com/user-attachments/assets/865e1aaf-7acf-47c4-965f-2f2da1422609)
       ![image](https://github.com/user-attachments/assets/27957b36-ee14-4a64-8eaf-26f3175199da)
-      ![image](https://github.com/user-attachments/assets/5fe63e88-4d16-4d5a-a663-85aed353cb36)
-
+      ![image](https://github.com/user-attachments/assets/5fe63e88-4d16-4d5a-a663-85aed353cb36)  
+  
     + Topic Modeling
       ![image](https://github.com/user-attachments/assets/2633434c-f829-41f7-8a9c-15b8d2530f50)
 
